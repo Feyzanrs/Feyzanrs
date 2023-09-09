@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Feyzanrs
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning [GO](https://go.dev/learn/)
