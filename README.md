@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Feyza Nur Şahin</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **AI**
 - 💻 I'm currently improving myself in Golang and Python.
 
 <h3 align="left">Languages and Tools:</h3>
