@@ -14,8 +14,4 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feyzanrs&layout=compact&langs_count=8)](https://github.com/Feyzanrs)
-
-[![Feyza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feyzanrs&show_icons=true&count_private=true&hide=contribs)](https://github.com/Feyzanrs)
-
 
